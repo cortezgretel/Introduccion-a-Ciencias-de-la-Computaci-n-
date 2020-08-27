@@ -1,0 +1,3 @@
+Panda,4,true,Blanco,Blanco,Blanco,Blanco
+Rata,4,true,Rosa,Rosa,Rosa,Rosa
+Tigre,4,true,Naranja,Naranja,Naranja,Naranja

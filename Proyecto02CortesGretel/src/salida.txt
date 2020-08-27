@@ -1,0 +1,31 @@
+
+
+--------------------------------ADVERTENCIA--------------------------------
+
+Es IMPORTANTE que sepa que si escribe una cadena con CARACTERES ESPECIALES con DIGITOS NUMERICOS y ESPACIOS estos se ELIMINARAN
+
+Introduce una cadena: 
+
+Esta será su cadena original
+                 HOLA
+
+Cadena cifrada por el cifrado de Cesar
+                 OVSH
+
+Cadena descifrada por el cifrado de Cesar
+                 HOLA
+
+Cadena cifrada por el cifrado de Rieles
+                 HAOL
+
+Cadena descifrada por el descifrado de rieles
+                 HOLA
+
+Abecedario revuelto: QSNWFPIEUKZOGMDVBHXJAYCLTR
+
+Cadena cifrada por el cifrado Kama-sutra
+                 EDOQ
+
+Cadena descifrada por el descifrado Kama-sutra
+                 HOLA
+

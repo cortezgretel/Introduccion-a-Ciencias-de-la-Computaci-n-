@@ -1,0 +1,4 @@
+Perro,4,true,Negro,Negro,Negro,Negro
+Gallo,2,true,Rojo,Rojo,Rojo,Rojo
+Ajolote,4,true,Naranja,Naranja,Naranja,Naranja
+Lobo,4,true,Blanco,Blanco,Blanco,Blanco
